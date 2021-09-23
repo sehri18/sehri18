@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sehrish a Software Developer!
+- 👋 Hi, I’m Sehrish an Android Developer!
 - 👀 I’m interested in Android, Kotlin and Java!
 - 🌱 I’m currently super enthusiatic about learning new technologies in the Android world. 
 - 🌌 In the past year I have been advancing my Kotlin skills!
